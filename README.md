@@ -20,3 +20,27 @@ Tasks in the assignment:
 - Perform multiple portfolio strategies, based on the assignment goals
 - Investment For Loop that invests using the optimizer function
 - Plotting and interpreting the performance of the different investment strategies.
+
+#### Assignment Exam: 
+
+##### Fama French + Momentum modeling, including complaint sentiment (NLP: VADER analysis) factor
+
+Tasks in the assignment:
+- Reading Data (JSON files)
+- Processing Data (Pandas)
+- Transform Data (Numpy)
+- Estimating the residuals of FF + Momentum (StatsModel OLS)
+- Regressing the residuals on the (lagged) complaints sentiment
+
+##### Black Scholes Option Pricing, Binomial Tree and Simulation model
+
+Tasks in the assignment:
+- Simulating stock prices using For Loops and vectorization
+- Price European Call option based on the simulated model.
+- Compare Three methods using a stock price of 50 and a strike price of 60.
+
+
+
+
+
+
